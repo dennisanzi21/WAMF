@@ -7,7 +7,7 @@ Weather And My Farm (WAMF) is a mobile app was created with Power Apps to allow 
 The problem that was tried to be solved in this competition is the agricultural sector under earth category. The aim of this project is to create a more data-driven world where everything is well predicted and sustainable for the growth of the agriculture sector. A better decision-making process can be achieved in the adaptation of this idea when everything was well plotted into statistical data. 
 
 ## Features
-###Farmer 
+Farmer 
 - Login & Logout 
 - View weather for the week 
 - Seek farming advise 
@@ -15,7 +15,7 @@ The problem that was tried to be solved in this competition is the agricultural 
 - Subscribe to premium 
 - Post question 
 
-###IT Staff 
+IT Staff 
 - Login & Logout  
 - Update agriculture new 
 - Update advertisement 
