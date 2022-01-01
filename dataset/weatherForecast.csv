@@ -1,0 +1,9 @@
+Index,Day,MorningTemp,NightTemp,Humidity,WindSpeed,WeatherPredicted
+1,Sat,28.62,23.77,77.0,2.03,Rain: moderate rain
+2,Sun,25.85,23.58,88.0,2.02,Rain: moderate rain
+3,Mon,27.65,24.02,75.0,1.39,Rain: moderate rain
+4,Tue,28.89,24.19,72.0,1.14,Rain: light rain
+5,Wed,29.54,24.11,67.0,1.85,Rain: moderate rain
+6,Thu,27.64,24.37,80.0,2.84,Rain: light rain
+7,Fri,29.23,24.4,68.0,2.64,Rain: light rain
+8,Sat,28.53,24.19,70.0,2.9,Rain: light rain
